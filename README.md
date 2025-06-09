@@ -10,12 +10,12 @@ A responsive Netflix clone website created with HTML and CSS. This project inclu
 
 ## Technologies Used
 - HTML5
-- CSS3 (Flexbox, Grid)
-- Responsive Design
+- CSS3 
+- JAVA SCRIPT
 
 ## How to Run
 1. Clone the repository:  
-   `git clone https://github.com/your-username/n`
+   `git clone https://github.com/Vinitsharma2910/Netflix_frontend_clone/tree/main`
 
 2. Open `index.html` in your browser.
 
